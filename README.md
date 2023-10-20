@@ -4,15 +4,15 @@
 
 ## 👔 I work as a Lead Cloud & DevOps Architect and Teamleader at Devoteam M Cloud Norway
 
-### 🧑‍💻 Tech enthusiast interested in home-automation and generally making life easier by using technology
+🧑‍💻 Tech enthusiast interested in home-automation and generally making life easier by using technology
 
-### 🤿 My hobbies are diving and playing golf
+🤿 My hobbies are diving and playing golf
 
-### 🏡 Living in Sandefjord, Norway
+🏡 Living in Sandefjord, Norway
 
-### 🙋 Ask me about anything in regards to Azure Infrastructure, IaC or DevOps
+🙋 Ask me about anything in regards to Azure Infrastructure, IaC or DevOps
 
-### 🏅 Fun fact: I can ride a unicycle
+🏅 Fun fact: I can ride a unicycle
 
 --------------------
 
@@ -20,6 +20,6 @@
 
 --------------------
 
-## View my verified Credly badges
+## 📘 View my verified Credly badges
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
