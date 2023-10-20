@@ -16,7 +16,7 @@
 
 --------------------
 
-[![X (formerly Twitter) URL](https://img.shields.io/badge/vetleskorpen-grey?style=for-the-badge&logo=x)](https://twitter.com/vetleskorpen) [![LinkedIn](https://img.shields.io/badge/vetle&nbsp;skorpen-grey?style=for-the-badge&logo=linkedin)](https://no.linkedin.com/in/vetleskorpen)
+[![X (formerly Twitter) URL](https://img.shields.io/badge/vetleskorpen-grey?style=for-the-badge&logo=x)](https://twitter.com/vetleskorpen) [![LinkedIn](https://img.shields.io/badge/vetle&nbsp;skorpen-grey?style=for-the-badge&logo=linkedin)](https://no.linkedin.com/in/vetleskorpen) [![Credly](https://img.shields.io/badge/vetle&nbsp;skorpen-grey?style=for-the-badge&logo=credly)](https://www.credly.com/users/vetle-skorpen)
 
 --------------------
 
