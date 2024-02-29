@@ -22,6 +22,7 @@
 
 ## 📘 View my verified Credly badges
 <!--START_SECTION:badges-->
+[![GitHub Actions](https://images.credly.com/size/110x110/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](http://www.credly.com/badges/5dc7c55d-f6c2-443d-92c7-36ba4c348477 "GitHub Actions")
 [![GitHub Foundations](https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](http://www.credly.com/badges/e6983661-c00b-4c79-8861-002a86bfdcac "GitHub Foundations")
 [![New Rank: Kusto Detective II](https://images.credly.com/size/110x110/images/8fc10fee-7b05-4b86-8504-01abf614bcac/image.png)](http://www.credly.com/badges/122e2786-8b57-433f-912d-582d2855ef26 "New Rank: Kusto Detective II")
 [![New Rank: Kusto Detective I](https://images.credly.com/size/110x110/images/304d7409-3dd5-40b6-ab20-88d3ec012eb1/image.png)](http://www.credly.com/badges/a6595896-0943-4a52-aeeb-137680432545 "New Rank: Kusto Detective I")
