@@ -22,6 +22,8 @@
 
 ## 📘 View my verified Credly badges
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/e503b02c-42b7-44fd-b549-44ea38d1c4fd" title="Build search and recommendations applications with AI Applications"><img src="https://images.credly.com/size/80x80/images/96153eb1-e9b1-496f-9278-e0dd26a76af3/blob" alt="Build search and recommendations applications with AI Applications" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/b806f322-9ccf-4e72-a8ce-4ce443c474ae" title="Create media search and media recommendations applications with AI Applications"><img src="https://images.credly.com/size/80x80/images/c897b8b4-6534-42e9-8f51-3f7f9a2ec169/blob" alt="Create media search and media recommendations applications with AI Applications" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/3900c388-6344-4bc0-a91f-1bd0c5d06403" title="FinOps Certified Practitioner"><img src="https://images.credly.com/size/80x80/images/08a5010a-0c0a-448c-981e-c116fedd380c/image.png" alt="FinOps Certified Practitioner" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/79214ed7-6efc-4431-a146-a214545af603" title="GitHub Copilot"><img src="https://images.credly.com/size/80x80/images/6b924fae-3cd7-4233-b012-97413c62c85d/blob" alt="GitHub Copilot" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/26e8db12-6889-4dc1-a1a7-31d53d0e1f33" title="GitHub Administration"><img src="https://images.credly.com/size/80x80/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png" alt="GitHub Administration" width="80" height="80"></a>
