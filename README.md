@@ -2,7 +2,7 @@
 
 ![Vetle Octocat!](/assets/images/octocat.png "Vetle Octocat")
 
-## 👔 I work as a Cloud & DevOps Architect at Devoteam M Cloud Norway
+## 👔 I work as a Solutions Architect at [Sensio](https://www.sensio.com/)
 
 🧑‍💻 Tech enthusiast interested in home-automation and generally making life easier by using technology
 
